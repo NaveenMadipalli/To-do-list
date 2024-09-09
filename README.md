@@ -1,5 +1,7 @@
 # To-do-list
 
+https://www.notion.so/Frontend-Task-Kanban-Board-3e59f4e34fff451f9a3acf13a9979bd8?pvs=4
+
 # Frontend Task | Kanban Board
 
 ## Objective
